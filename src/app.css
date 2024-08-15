@@ -1,3 +1,13 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+body,
+main {
+  font-family: Calibri, "Trebuchet MS", sans-serif;
+  font-size: large;
+}
+div {
+  display: flex;
+  position: relative;
+}
