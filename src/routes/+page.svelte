@@ -25,11 +25,11 @@
     <icon><a href="https://www.linkedin.com/in/connor-cochran-a69241251/" target="_blank"><img src="../../icons/in-black.webp" alt="LinkedIn"></a></icon>
 
 
-    <icon><a href="https://leetcode.com/u/cocochran/" target="_blank"><img src="../../icons/leetcode-black.webp" alt="Leetcode"></a></icon>
+    <icon><a href="https://leetcode.com/u/cocochran/" target="_blank"><img class="w-[40px] h-[40px]" src="../../icons/leetcode-black.webp" alt="Leetcode"></a></icon>
 
   </div>
 </div>
 
 <body class="">
-    <p>Finally</p>
+    
 </body>
