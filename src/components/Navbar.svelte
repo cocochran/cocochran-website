@@ -10,7 +10,7 @@
 
 
 <main>
-    <div class="border border-4 mx-[25%] my-3 py-5 rounded-2xl shadow-xl">
+    <div class="border border-4 mx-[18%] my-3 py-3 rounded-2xl shadow-xl">
         
         <icon class="ml-10"><a href="/" target="_blank"><img src="../../icons/home-black.webp" alt="Home"></a></icon>
         <div class="mx-auto text-indigo-950" >
